@@ -6,7 +6,9 @@ I am currently building my career in data analytics, with a strong passion for c
 
 ## About Me
 Name: Doan Hai Yen
+
 Location: Ha Noi, Vietnam
+
 Email: dyen1912.w@gmail.com 
 
 ## Portfolio Contents
