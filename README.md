@@ -12,6 +12,11 @@ Location: Ha Noi, Vietnam
 Email: dyen1912.w@gmail.com 
 
 ## Portfolio Contents
+### Projects 
+#### Project 1: Churn Banking Prediction
+
+* **Description:** An analysis of customer churn in the banking industry using exploratory data analysis and predictive modeling.
+* **Link to Project:** [Project 1](your-project-link)
 
 
 ## Contact
